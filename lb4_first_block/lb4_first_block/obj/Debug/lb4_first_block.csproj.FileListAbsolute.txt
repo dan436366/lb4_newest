@@ -1,0 +1,8 @@
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\obj\Debug\lb4_first_block.csproj.AssemblyReference.cache
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\obj\Debug\lb4_first_block.csproj.SuggestedBindingRedirects.cache
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\obj\Debug\lb4_first_block.csproj.CoreCompileInputs.cache
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\bin\Debug\lb4_first_block.exe.config
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\bin\Debug\lb4_first_block.exe
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\bin\Debug\lb4_first_block.pdb
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\obj\Debug\lb4_first_block.exe
+D:\Dan\university\palm2\lb4_together\lab4\lb4_first_block\lb4_first_block\obj\Debug\lb4_first_block.pdb
