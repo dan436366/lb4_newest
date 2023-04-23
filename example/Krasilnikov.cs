@@ -33,7 +33,7 @@ namespace lb4_krasilnikov_block1
             {
                 newArr[i + 1] = arr[i];
             }
-
+//me
 
             newArr[newArr.Length - 1] = max;
         }
