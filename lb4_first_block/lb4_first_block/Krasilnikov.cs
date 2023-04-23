@@ -35,6 +35,8 @@ namespace lb4_krasilnikov_block1
             }
 
             newArr[newArr.Length - 1] = max;
+
+            //
         }
     }
 }
